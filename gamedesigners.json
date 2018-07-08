@@ -1,0 +1,32 @@
+{
+   "Designer1" : {
+      "name" : "Tetsuya Nomura",
+	  "Game Franchises" : "Kingdom Hearts, Final Fantasy",
+	  "Employement Status" : "Employed at Square Enix",
+	  "id": 1
+   },
+   "Designer2" : {
+      "name" : "Akihiko Yoshida",
+	  "Game Franchises" : "Final Fantasy Tactics, Gran Blue Fantasy",
+	  "Employement Status" : "Free-lance, recently employed at CyGames",
+	  "id": 2
+   },
+   "Designer3" : {
+      "name" : "Shigenori Soejima",
+	  "Game Franchises" : "Persona",
+	  "Employement Status" : "Employed at Atlus",
+	  "id": 3
+   },
+   "Designer4" : {
+      "name" : "Yoko Taro",
+	  "Game Franchises" : "Drakenguard, Nier",
+	  "Employement Status" : "Employed at Square Enix",
+	  "id": 4
+   },
+   "Designer5" : {
+      "name" : "Junichi Masuda",
+	  "Game Franchises" : "Pokemon",
+	  "Employement Status" : "Employed at Game Freak",
+	  "id": 5
+   }   
+}
