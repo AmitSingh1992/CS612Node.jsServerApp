@@ -1,7 +1,7 @@
 # CS612Node.jsServerApp
 An app that runs a restful api with two get routes using node.js, along with an attempt to use a docker container.
 
-In order to run this applicaation, node version 8 or higher must be installed.
+In order to run this applicaation, node version 8 or higher must be installed. the node_modules folder should also be present on your machine.
 
 run node gamedesigners.js to begin the server.
 
